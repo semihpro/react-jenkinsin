@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit and save to reload. 5. commit
+          Edit and save to reload. 5. committttt
         </p>
         <a
           className="App-link"
